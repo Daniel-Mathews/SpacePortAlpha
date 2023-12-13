@@ -1,0 +1,32 @@
+{
+  "name": "spaceportalpha",
+  "version": "1.0.0",
+  "description": "A space port management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Mathews/SpacePortAlpha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Mathews/SpacePortAlpha/issues"
+  },
+  "homepage": "https://github.com/Daniel-Mathews/SpacePortAlpha#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "helmet": "^7.1.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2",
+    "passport": "^0.7.0",
+    "validator": "^13.11.0"
+  }
+}
